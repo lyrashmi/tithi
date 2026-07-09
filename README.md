@@ -3,22 +3,22 @@ To use you also need:
 
 CSV structure should look like this:
 ```
-print("Name")
+Name
 ```
 ```
-print("Birth_Day")
+Birth_Day
 ```
 ```
-print("Birth_Month")
+Birth_Month
 ```
 ```
-print("Birth_Year")
+Birth_Year
 ```
 ```
-print("Birth_Time")
+Birth_Time
 ```
 (in 24h, four digit format; e.g. 14:14)
 ```
-print("Timezone")
+Timezone
 ```
 (Timezone of birth in IANA format; e.g. America/New_York)
