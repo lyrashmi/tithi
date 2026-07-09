@@ -1,3 +1,5 @@
+This script calculates the tithi pravesha's based on information from a CSV sheet for a given year and exports these as a single .ics calendar file.
+
 To use you also need:
 'pip install skyfield icalendar pytz'
 
