@@ -34,13 +34,6 @@ Create a CSV file (e.g., `birth_details.csv`) with the following exact column he
 | `Birth_Time` | Time of birth in 24-hour format | `14:14` |
 | `Timezone` | IANA timezone of the birth place | `America/New_York` |
 
-### Example CSV (`birth_details.csv`):
-```csv
-Name,Birth_Day,Birth_Month,Birth_Year,Birth_Time,Timezone
-Alice Smith,12,5,1985,08:30,Europe/London
-Bob Jones,25,11,1990,14:14,America/New_York
-```
-
 ## 🚀 Usage
 
 1. Ensure your CSV file is ready and formatted correctly as shown above.
