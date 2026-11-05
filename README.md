@@ -1,4 +1,4 @@
-# 🌙 Tithi Pravesha Calendar Generator
+# Tithi Pravesha Calendar Generator
 
 This Python script calculates the exact times of **Tithi Pravesha** for multiple individuals based on their birth details. It processes the data from a CSV file for a specified year and exports all calculated events into a single `.ics` calendar file, which can be easily imported into Google Calendar, Apple Calendar, Outlook, etc.
 
